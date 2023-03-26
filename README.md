@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Macdotexe
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Some small projects
 - 📫 How to reach me my Discord Mac.exe#9950
 
