@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Macdotexe
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Some small projects
+....
